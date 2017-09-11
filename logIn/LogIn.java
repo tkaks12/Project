@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 import join.Join;
 import join.JoinDao;
 import project.MainFrame;
-
+//test
 public class LogIn extends JFrame {
 	private JPanel panelId, panelPass, panelBt;
 	private JLabel labelId, labelPass;
